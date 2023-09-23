@@ -1,0 +1,6 @@
+.secrets_env_rc
+
+/nginx/
+/data/
+
+*.swp
